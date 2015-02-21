@@ -3,5 +3,6 @@ Test file 1
 
 br1
 
+Detta är master
 
-Detta är Master
+Efter krock
